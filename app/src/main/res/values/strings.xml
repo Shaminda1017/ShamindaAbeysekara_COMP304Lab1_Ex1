@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1_Ex1</string>
+    <string name="textview">Life Cycle Methods Demonstration</string>
+    <string name="secondftext">Main Activity: \n onCreate executed \n onStart executed</string>
+    <string name="aiactivity">AIActivity</string>
+    <string name="vractivity">VRActivity</string>
+    <string name="aiatextview">AIActivity: \n onCreate executed \n onStart executed</string>
+    <string name="vratextview">VRActivity: \n onCreate executed \n onStart executed</string>
+</resources>
